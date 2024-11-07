@@ -2,7 +2,7 @@
 
 use clap::{ArgGroup, Parser};
 
-/// RustaMetrics: A comprehensive code metrics and performance benchmarking tool for Rust projects.
+
 #[derive(Parser, Debug)]
 #[command(name = "RustaMetrics")]
 #[command(author = "0xb-s")]
