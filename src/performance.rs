@@ -1,5 +1,3 @@
-// src/performance.rs
-
 use crate::errors::RustaMetricsError;
 use criterion::Criterion;
 use std::path::Path;
